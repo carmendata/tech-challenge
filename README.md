@@ -2,7 +2,10 @@
 
 Technical challenge for prospective developers
 
-Fork the repo (Github or Bitbucket) and download it. Open the `index.html` in a browser window (this doesn't need to be via a web server you can just drag and drop it).
+Clone the repo to a location you can share with us later on (Github or Bitbucket for example, we'll want to see the source code not a hosted example)
+You can fork the repo if you want but bear in mind the list of forked repos is public, so you may prefer to clone.
+
+Open the `index.html` in a browser window (this doesn't need to be via a web server you can just drag and drop it).
 
 Follow the instructions laid out in the html page, editing the files as you see fit.
 
